@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "little-tweet",
-    "description": "This project is really great.",
+    "name": "Little-Tweet",
+    "description": "First React Native App",
     "slug": "little-tweet",
     "privacy": "public",
     "sdkVersion": "29.0.0",

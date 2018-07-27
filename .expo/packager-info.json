@@ -1,8 +1,8 @@
 {
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 2264,
-  "expoServerNgrokUrl": "https://9c-d2g.stevendsb.little-tweet.exp.direct",
-  "packagerNgrokUrl": "https://packager.9c-d2g.stevendsb.little-tweet.exp.direct",
-  "ngrokPid": 2333
+  "expoServerPort": 19003,
+  "packagerPort": 19002,
+  "packagerPid": 10833,
+  "expoServerNgrokUrl": "https://e2-m5d.stevendsb.little-tweet.exp.direct",
+  "packagerNgrokUrl": "https://packager.e2-m5d.stevendsb.little-tweet.exp.direct",
+  "ngrokPid": 10853
 }
