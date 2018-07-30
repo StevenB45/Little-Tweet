@@ -1,11 +1,11 @@
 import React from 'react';
 import { Text, View } from 'react-native';
 
-import './App.styles';
+import styles from './App.styles';
 
 const App = () => (
-    <View>
-        <Text>Prout</Text>
+    <View style={styles.App}>
+        <Text>Nouvelle vue</Text>
     </View>
 )
 
