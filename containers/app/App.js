@@ -5,7 +5,7 @@ import styles from './App.styles';
 
 const App = () => (
     <View style={styles.App}>
-        <Text>Nouvelle vue</Text>
+        <Text style={styles.Titre}>Nouvelle vue</Text>
     </View>
 )
 
